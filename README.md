@@ -7,7 +7,7 @@ A premium, responsive medical clinic landing page built with **Next.js**, **Reac
 ## 🌐 Live Demo
   (ctrl + click to open it in new tab)
   
-🔗 **[clinic-homepage-demo.vercel.app](https://clinic-homepage-demo.vercel.app/)**
+🔗 **https://clinic-homepage-nu.vercel.app/**
 
 ---
 
